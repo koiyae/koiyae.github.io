@@ -20,7 +20,7 @@ Dado tal fato, você pode estar se perguntando: como, então, conseguimos realiz
 
 Antes de prosseguirmos, vale compreender como funciona a abstração em computadores na prática. Imagine uma escada: cada degrau representa um nível de complexidade. No topo, temos linguagens e interfaces próximas da forma como pensamos e escrevemos. Mais abaixo, instruções menos intuitivas, até chegar, por fim, aos sinais elétricos que o computador real entende – tensões de 0V ou 5V, representadas pelos valores 0 e 1, respectivamente. Observe o esquema abaixo:
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg,rgb(196, 196, 196) 0%,rgb(99, 99, 99) 100%); margin: 20px 0; padding: 20px; border-radius: 15px;">
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px 0; padding: 20px; border-radius: 15px;">
     <div style="background: rgb(210, 210, 210); border-radius: 20px; padding: 30px; box-shadow: 0 20px 40px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto;">
         <div style="text-align: center; font-size: 28px; font-weight: bold; color: #2d3748; margin-bottom: 30px; background:rgb(44, 44, 44); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
             🖥️ Níveis de Computação
@@ -96,7 +96,7 @@ Na grande maioria dos casos concretos, o código produzido pelos compiladores es
 
 Como dito anteriormente, focarei na ISA RISC-V. Observe a implementação abaixo:
 
-<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(135deg,rgb(196, 196, 196) 0%,rgb(99, 99, 99) 100%); margin: 20px 0; padding: 20px; border-radius: 15px;">
+<div style="font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; margin: 20px 0; padding: 20px; border-radius: 15px;">
     <div style="background: rgb(210, 210, 210); border-radius: 20px; padding: 30px; box-shadow: 0 20px 40px rgba(0,0,0,0.1); max-width: 600px; margin: 0 auto;">
         <div style="text-align: center; font-size: 28px; font-weight: bold; color: #2d3748; margin-bottom: 30px; background:rgb(44, 44, 44); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;">
             🖥️ Assembly RISC-V
