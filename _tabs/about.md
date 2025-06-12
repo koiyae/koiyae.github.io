@@ -4,4 +4,4 @@ icon: fas fa-info-circle
 order: 4
 ---
 
-Gosto de matemática, arquitetura de computadores (em especial programação e fabricação de GPUs), engenharia elétrica e artes.
+Me interesso por matemática, física, engenharia elétrica, artes e computação, com foco específico em projetos de SoCs e GPUs — desde o nível lógico até a programação com CUDA e GPGPU.
